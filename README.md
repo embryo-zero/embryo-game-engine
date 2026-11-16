@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Game Engine
+
+**Embryo Game Engine** is Embryo-Zero's fork of [godot](https://github.com/godotengine/godot), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Godot Engine
 
 <p align="center">
